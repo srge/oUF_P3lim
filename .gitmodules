@@ -1,6 +1,3 @@
-[submodule "oUF"]
-	path = embeds/oUF
-	url = git://github.com/haste/oUF.git
 [submodule "oUF_MovableFrames"]
 	path = embeds/oUF_MovableFrames
 	url = git://github.com/haste/oUF_MovableFrames.git
