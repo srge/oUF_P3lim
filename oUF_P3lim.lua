@@ -584,7 +584,7 @@ oUF:Factory(function(self)
 	self:Spawn('target'):SetPoint('CENTER', 300, -250)
 	self:Spawn('targettarget'):SetPoint('TOPRIGHT', oUF_P3limTarget, 0, 26)
 
-	self:SpawnHeader(nil, nil, 'custom [group:party] show; [@raid3,exists] show; [@raid26,exists] hide; hide',
+	self:SpawnHeader(nil, nil, 'hide',
 		'showParty', true,
 		'showRaid', true,
 		'showPlayer', true,
